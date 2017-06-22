@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "145322760290",
+    "firebase_url": "https://centering-study-169913.firebaseio.com",
+    "project_id": "centering-study-169913",
+    "storage_bucket": "centering-study-169913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145322760290:android:889325fdb743127f",
+        "android_client_info": {
+          "package_name": "com.example.rauts.anapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145322760290-dpo7o111ha7c74p8ji8i2dqnig5qpmhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUHU0ABunXowrJaMDAKXgWZHLXFjjrpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
